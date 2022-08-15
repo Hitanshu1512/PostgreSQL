@@ -1,2 +1,3 @@
 # PostgreSQL
-* = Important
+>> Read Me <<
+*  "*" = "Important" ;

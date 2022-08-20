@@ -6,4 +6,4 @@
 (3) Queries
 (4) Joins
 (5) Sub queries
-(6)
+(6) String Functions
